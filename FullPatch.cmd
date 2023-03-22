@@ -33,9 +33,7 @@ cd "C:\Multiversity\resources\app\dist"
 echo Moved to dist dir.
 rmdir /S /Q assets
 echo Removed assets.
-color 7
 xcopy "%~dp0\files\assets" "C:\Multiversity\resources\app\dist\assets" /E/I
-color a
 echo Copied patched assets.
 cd "C:\Multiversity\resources\app\dist-electron\app"
 echo Moving to app dir.
