@@ -15,8 +15,10 @@ Patch per Multiversity Agent che rende impossibile il rilevamento dei software d
 3)  Puoi utilizzare Multiversity Agent mentre hai un software di screen sharing aperto.
 <br><br><br><br><br>
 # Disclaimer
+May be unsafe.
 If you use this patch the creator is in no way responsible for whatever happens to you.<br>
 Use at your own risk.<br>
+Potrebbe essere non sicura.
 Se usi questa patch il creatore non è in alcun modo responsabile per qualunque cosa ti possa succedere.<br>
 Usa a tuo rischio e pericolo.
 <br><br>
