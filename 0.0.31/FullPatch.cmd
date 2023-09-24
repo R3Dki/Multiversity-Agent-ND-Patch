@@ -42,8 +42,6 @@ echo Deleted Utility js file.
 copy "%~dp0\files\Utility.js" "Utility.js"
 echo Copied Utility js file.
 echo Patch applied.
-timeout /T 5
-cls
 color 4
 echo ____/\\\\\\\\\__________/\\\\\\\\\\____/\\\\\\\\\\\\__________________________                                         
 echo  __/\\\///////\\\______/\\\///////\\\__\/\\\////////\\\____/\\\________________                                        
